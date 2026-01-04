@@ -105,19 +105,33 @@ Assignment: Assign the ticket specifically to agent Jane.
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="883" height="668" alt="Screenshot 2026-01-04 171030" src="https://github.com/user-attachments/assets/d15b78a0-9f24-4a40-9e8e-a256c95f3b2b" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="860" height="661" alt="Screenshot 2026-01-04 171041" src="https://github.com/user-attachments/assets/4dbcfb55-0668-4a99-b8fa-a4b7965f2ee1" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="906" height="659" alt="Screenshot 2026-01-04 171049" src="https://github.com/user-attachments/assets/78ef34be-bb63-4385-bd7f-fa48c118a801" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="982" height="662" alt="Screenshot 2026-01-04 171100" src="https://github.com/user-attachments/assets/38d31d33-9a55-4af5-ad67-afdfaec76bb5" />
+
+</p>
+
+<p>
+<img width="1016" height="633" alt="Screenshot 2026-01-04 171108" src="https://github.com/user-attachments/assets/3213765a-cc6b-45b9-84af-a034a4bbb36a" />
+
+</p>
+
+<p>
+<img width="1020" height="664" alt="Screenshot 2026-01-04 171117" src="https://github.com/user-attachments/assets/6867679b-6810-4ce2-9b4c-0b7b71531cf9" />
+
 </p>
 
 <p>
