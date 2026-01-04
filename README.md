@@ -90,6 +90,29 @@ Assignment: Assign the ticket specifically to agent Jane.
 <br />
 
 <p>
+<img width="785" height="596" alt="Screenshot 2026-01-04 170833" src="https://github.com/user-attachments/assets/9de08a86-756f-4939-9ff5-280b92c921cf" />
+
+</p>
+
+<p>
+<img width="1017" height="444" alt="Screenshot 2026-01-04 170843" src="https://github.com/user-attachments/assets/63872616-2c10-4b73-b158-6e6852e64efb" />
+
+</p>
+
+<p>
+<img width="731" height="661" alt="Screenshot 2026-01-04 170853" src="https://github.com/user-attachments/assets/a05cc13e-72cd-4028-a40f-ffeb082525ec" />
+
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
