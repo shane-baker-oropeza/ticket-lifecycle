@@ -26,6 +26,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
+Phase 1: Environment Setup
+Start the Virtual Machine: Ensure your osTicket VM is running and log in via Remote Desktop using its IP address.
+Access the Panels: Open two browser tabs: one for the Admin Panel (to manage configurations) and one for the Agent Panel (to manage tickets).
+
+Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
+
+End Users osTicket URL: http://localhost/osTicket
+</p>
+<br />
+
+<p>
 <img width="2259" height="302" alt="Screenshot 2026-01-04 172403" src="https://github.com/user-attachments/assets/4d0cc149-8537-4b42-b615-252572d85f56" />
 
 </p>
@@ -44,14 +55,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="960" height="590" alt="Screenshot 2026-01-04 170621" src="https://github.com/user-attachments/assets/4b626a2a-8103-4628-b07a-e74ca661d695" />
 
 </p>
+
 <p>
-Phase 1: Environment Setup
-Start the Virtual Machine: Ensure your osTicket VM is running and log in via Remote Desktop using its IP address.
-Access the Panels: Open two browser tabs: one for the Admin Panel (to manage configurations) and one for the Agent Panel (to manage tickets).
-
-Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
-
-End Users osTicket URL: http://localhost/osTicket
+Phase 2: Ticket Creation (End-User Role)
+Submit Ticket as "Karen": Log in as the end-user Karen and create a new ticket.
+Help Topic: Business Critical Outage / Report Problem.
+Issue Summary: "Entire mobile/online banking system is down."
 </p>
 <br />
 
@@ -71,10 +80,12 @@ End Users osTicket URL: http://localhost/osTicket
 
 </p>
 <p>
-Phase 2: Ticket Creation (End-User Role)
-Submit Ticket as "Karen": Log in as the end-user Karen and create a new ticket.
-Help Topic: Business Critical Outage / Report Problem.
-Issue Summary: "Entire mobile/online banking system is down."
+Phase 3: Ticket Triage (Help Desk Agent Role - "John")
+Observe Properties: Log in as John to view the new ticket and inspect its default Priority, Department, and SLA.
+Update & Assign: Modify the ticket properties to escalate the issue:
+SLA Plan: Set to Sev-A (1 hour, 24/7).
+Department: Set to Online Banking.
+Assignment: Assign the ticket specifically to agent Jane.
 </p>
 <br />
 
