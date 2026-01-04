@@ -56,18 +56,25 @@ End Users osTicket URL: http://localhost/osTicket
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="771" height="669" alt="Screenshot 2026-01-04 170754" src="https://github.com/user-attachments/assets/a19e57c2-1432-408f-8a0a-2dcbb0898382" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="656" height="661" alt="Screenshot 2026-01-04 170815" src="https://github.com/user-attachments/assets/5c5d1a69-f71f-47cb-9210-970edf580509" />
+
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="938" height="594" alt="Screenshot 2026-01-04 170825" src="https://github.com/user-attachments/assets/11aa0f17-fc70-424e-a4d5-9155150ca6fa" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Phase 2: Ticket Creation (End-User Role)
+Submit Ticket as "Karen": Log in as the end-user Karen and create a new ticket.
+Help Topic: Business Critical Outage / Report Problem.
+Issue Summary: "Entire mobile/online banking system is down."
 </p>
 <br />
 
