@@ -48,6 +48,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 Phase 1: Environment Setup
 Start the Virtual Machine: Ensure your osTicket VM is running and log in via Remote Desktop using its IP address.
 Access the Panels: Open two browser tabs: one for the Admin Panel (to manage configurations) and one for the Agent Panel (to manage tickets).
+
+Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
+
+End Users osTicket URL: http://localhost/osTicket
 </p>
 <br />
 
