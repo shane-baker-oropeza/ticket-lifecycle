@@ -26,25 +26,30 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img width="1109" height="767" alt="image" src="https://github.com/user-attachments/assets/27b4fcde-6ba0-4f4f-b2f1-de258bbe68c5" />
+<img width="2259" height="302" alt="Screenshot 2026-01-04 172403" src="https://github.com/user-attachments/assets/4d0cc149-8537-4b42-b615-252572d85f56" />
+
+</p>
+
+<p>
+<img width="455" height="274" alt="Screenshot 2026-01-04 172427" src="https://github.com/user-attachments/assets/d679c56c-0482-4b01-a386-dcab55ff536b" />
+
+</p>
+
+<p>
+<img width="1109" height="767" alt="Screenshot 2026-01-04 170336" src="https://github.com/user-attachments/assets/3ca7f233-ff27-445a-b687-aae44a566b06" />
+
+</p>
+
+<p>
+<img width="960" height="590" alt="Screenshot 2026-01-04 170621" src="https://github.com/user-attachments/assets/4b626a2a-8103-4628-b07a-e74ca661d695" />
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Phase 1: Environment Setup
+Start the Virtual Machine: Ensure your osTicket VM is running and log in via Remote Desktop using its IP address.
+Access the Panels: Open two browser tabs: one for the Admin Panel (to manage configurations) and one for the Agent Panel (to manage tickets).
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
