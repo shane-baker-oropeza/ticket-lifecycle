@@ -19,7 +19,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Ticket Lifecycle Stages</h2>
 
 - Creating ticket as end user
-- Assignment ticket properties as Agent
+- Assignment of ticket properties as Agent
 - Working the Issue
 - Resolution
 
