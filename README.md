@@ -26,7 +26,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-Phase 1: Environment Setup
+<h3>Phase 1: Environment Setup </h3>
+  
 Start the Virtual Machine: Ensure your osTicket VM is running and log in via Remote Desktop using its IP address.
 Access the Panels: Open two browser tabs: one for the Admin Panel (to manage configurations) and one for the Agent Panel (to manage tickets).
 
@@ -57,7 +58,8 @@ End Users osTicket URL: http://localhost/osTicket
 </p>
 
 <p>
-Phase 2: Ticket Creation (End-User Role)
+<h3>Phase 2: Ticket Creation (End-User Role) </h3>
+  
 Submit Ticket as "Karen": Log in as the end-user Karen and create a new ticket.
 Help Topic: Business Critical Outage / Report Problem.
 Issue Summary: "Entire mobile/online banking system is down."
@@ -80,7 +82,8 @@ Issue Summary: "Entire mobile/online banking system is down."
 
 </p>
 <p>
-Phase 3: Ticket Triage (Help Desk Agent Role - "John")
+<h3>Phase 3: Ticket Triage (Help Desk Agent Role - "John")</h3>
+  
 Observe Properties: Log in as John to view the new ticket and inspect its default Priority, Department, and SLA.
 Update & Assign: Modify the ticket properties to escalate the issue:
 SLA Plan: Set to Sev-A (1 hour, 24/7).
@@ -151,7 +154,8 @@ Assignment: Assign the ticket specifically to agent Jane.
 </p>
 
 <p>
-Phase 4: Ticket Resolution (Department Specialist Role - "Jane")
+<h3>Phase 4: Ticket Resolution (Department Specialist Role - "Jane") </h3>
+  
 Work the Ticket: Log in as Jane to see the ticket now assigned to your department.
 Provide Updates: Post a response or internal note to document the progress (this creates a trackable history of changes).
 Resolve & Close: Change the ticket status from "Open" to "Resolved" or "Closed" to complete the workflow.
