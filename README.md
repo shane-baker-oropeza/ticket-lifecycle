@@ -193,7 +193,10 @@ Resolve & Close: Change the ticket status from "Open" to "Resolved" or "Closed" 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When resolving incidents (tickets), effective communication is critical. This involves interfacing with internal teams and the affected end-users. Incidents with various issues are routed and assigned appropriately to designated personnel based on skill and scope.
+Comprehensive documentation is essential for maintaining a stable operational environment. Proper documentation ensures that resolved incidents can be leveraged as a knowledge base or reference material for future, similar issues, facilitating efficient problem resolution and knowledge transfer.
+
+
 </p>
 <br />
 
