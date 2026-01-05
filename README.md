@@ -190,12 +190,12 @@ Resolve & Close: Change the ticket status from "Open" to "Resolved" or "Closed" 
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 When resolving incidents (tickets), effective communication is critical. This involves interfacing with internal teams and the affected end-users. Incidents with various issues are routed and assigned appropriately to designated personnel based on skill and scope.
 Comprehensive documentation is essential for maintaining a stable operational environment. Proper documentation ensures that resolved incidents can be leveraged as a knowledge base or reference material for future, similar issues, facilitating efficient problem resolution and knowledge transfer.
 
+
+</p>
+Ticket management processes vary by organization and are often guided by specific performance standards. These include meeting resolution targets within set timeframes and prioritizing urgent issues to minimize downtime. By installing and configuring an osTicket system from the ground up, I gained a practical understanding of how support tickets move through the IT lifecycle.
 
 </p>
 <br />
