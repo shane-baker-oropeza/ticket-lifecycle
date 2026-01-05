@@ -195,6 +195,7 @@ Comprehensive documentation is essential for maintaining a stable operational en
 
 
 </p>
+<h3>Lessons Learned: </h3>
 Ticket management processes vary by organization and are often guided by specific performance standards. These include meeting resolution targets within set timeframes and prioritizing urgent issues to minimize downtime. By installing and configuring an osTicket system from the ground up, I gained a practical understanding of how support tickets move through the IT lifecycle.
 
 </p>
